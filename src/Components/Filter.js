@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 function Filter(props) {
   return (
@@ -22,3 +22,5 @@ function Filter(props) {
     </div>
   );
 }
+
+export default Filter

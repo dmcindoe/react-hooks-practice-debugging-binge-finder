@@ -1,7 +1,7 @@
-import React from "react";
+import React from "react"
 
 function Episode(props) {
-  let { myEpisode } = props;
+  let { myEpisode } = props
 
   return (
     <div>
@@ -10,4 +10,4 @@ function Episode(props) {
   );
 }
 
-export default Episode;
+export default Episode
