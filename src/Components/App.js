@@ -56,7 +56,7 @@ function App() {
           {!!selectedShow ? (
             <SelectedShowContainer
               selectedShow={selectedShow}
-              allEpisodes={episodes}
+              episodes={episodes}
             />
           ) : (
             <div />
@@ -74,4 +74,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
