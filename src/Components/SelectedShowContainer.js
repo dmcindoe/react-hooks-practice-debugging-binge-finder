@@ -48,7 +48,7 @@ function SelectedShowContainer(props) {
   );
 }
 
-function isUnique(Array) {
+function isUnique(array) {
   const arr = [];
   for (let i = 0; i < this.length; i++) {
     if (!arr.includes(this[i])) {
